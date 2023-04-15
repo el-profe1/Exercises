@@ -1,0 +1,29 @@
+{
+  "name": "exercises",
+  "version": "1.0.0",
+  "description": "Exercises for the Node.js course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/el-profe1/Exercises.git"
+  },
+  "keywords": [
+    "Node.js",
+    "JavaScript",
+    "ES6"
+  ],
+  "author": "Daniel Loaiza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/el-profe1/Exercises/issues"
+  },
+  "homepage": "https://github.com/el-profe1/Exercises#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.2.0",
+    "mongoose": "^7.0.3"
+  }
+}
